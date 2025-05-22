@@ -16,7 +16,7 @@ import random
 # number out of a number list.
 def find_max_value(num_list):
     # Initialize the current maximum
-    # number to 0 to use it later.
+    # number to zero to use it later.
     current_max_value = 0
 
     # Use a for loop to loop over the length of the list.
